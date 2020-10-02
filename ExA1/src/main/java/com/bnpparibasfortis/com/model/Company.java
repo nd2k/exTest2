@@ -1,5 +1,7 @@
 package com.bnpparibasfortis.com.model;
 
+import com.bnpparibasfortis.com.model.Address;
+
 public class Company {
 
     private String name;

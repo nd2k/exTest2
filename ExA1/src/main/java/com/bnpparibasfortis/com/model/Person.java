@@ -1,5 +1,7 @@
 package com.bnpparibasfortis.com.model;
 
+import com.bnpparibasfortis.com.model.Company;
+
 import java.time.LocalDate;
 import java.time.Period;
 
