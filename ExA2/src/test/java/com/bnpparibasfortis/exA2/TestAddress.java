@@ -8,11 +8,6 @@ import static org.junit.Assert.assertEquals;
 
 public class TestAddress {
 
-    public Address address;
-
-    public void address(Address address) {
-        this.address = address;
-    }
 
     public Address addressUnderTest = new Address("Rue Java", "555", "7000", "Mons", "Belgique", "BE");
 
@@ -23,7 +18,7 @@ public class TestAddress {
         //boolean expected = true;
 
         //Act
-        boolean result = address.checkZipCodeIsNumeric(address.getZipCode());
+        boolean result = addressUnderTest.checkZipCodeIsNumeric(addressUnderTest.getZipCode());
 
         //Assert
         assertEquals(true, result);

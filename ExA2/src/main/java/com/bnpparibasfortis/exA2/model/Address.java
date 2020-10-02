@@ -23,7 +23,7 @@ public class Address {
             Integer i = Integer.parseInt(zipCode);
             System.out.println(i);
             return true;
-        } catch (Exception e) {
+        } catch (NumberFormatException e) {
             return false;
         }
     }

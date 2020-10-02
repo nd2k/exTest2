@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b94886c-0e36-4ca3-8c45-55492690de14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/extest2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA2/ExA2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA2/src/main/java/com/bnpparibasfortis/exA2/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA2/src/main/java/com/bnpparibasfortis/exA2/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA2/src/main/java/com/bnpparibasfortis/exA2/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA2/src/test/java/com/bnpparibasfortis/exA2/TestAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/Ex1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExA2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/ex2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA2/src/test/java/com/bnpparibasfortis/exA2/TestAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA2/src/test/java/com/bnpparibasfortis/exA2/TestAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA2/target/test-classes/com/bnpparibasfortis/exA2/TestAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExA2/target/test-classes/com/bnpparibasfortis/exA2/TestAddress.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,22 +116,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="551" y="281" width="532" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1601638127707" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601639228457">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601639588665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601639228457" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601639228457">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601639588665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601639588665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601639228457" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601639228457">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601639588665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601639588665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601639228457" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601639228457">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601639588665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601639588665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601639228457" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601639588665" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601639007296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
