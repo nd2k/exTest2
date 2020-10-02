@@ -1,4 +1,6 @@
-package com.bnpparibasfortis;
+package com.bnpparibasfortis.model;
+
+import com.bnpparibasfortis.model.Address;
 
 public class Company {
 

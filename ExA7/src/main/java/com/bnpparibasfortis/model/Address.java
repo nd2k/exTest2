@@ -1,4 +1,4 @@
-package com.bnpparibasfortis;
+package com.bnpparibasfortis.model;
 
 public class Address {
 

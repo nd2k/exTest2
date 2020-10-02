@@ -1,4 +1,7 @@
-package com.bnpparibasfortis;
+package com.bnpparibasfortis.model;
+
+import com.bnpparibasfortis.exception.PersonShouldBeAdultException;
+import com.bnpparibasfortis.model.Company;
 
 import java.time.LocalDate;
 import java.time.Period;
@@ -81,9 +84,9 @@ public class Person {
 
 
     public int calculateAge() throws PersonShouldBeAdultException {
-
-        if (Period.between(birthDay, LocalDate.now()).getYears() > 18) {
-            return Period.between(birthDay, LocalDate.now()).getYears();
+        Integer age = Period.between(birthDay, LocalDate.now()).getYears();
+        if ( age > 18) {
+            return age;
         } else {
             throw new PersonShouldBeAdultException("This person is not an adult");
         }
