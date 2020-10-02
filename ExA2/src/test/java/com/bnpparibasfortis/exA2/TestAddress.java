@@ -18,7 +18,7 @@ public class TestAddress {
         //boolean expected = true;
 
         //Act
-        boolean result = addressUnderTest.checkZipCodeIsNumeric(addressUnderTest.getZipCode());
+        boolean result = addressUnderTest.checkZipCodeIsNumeric();
 
         //Assert
         assertEquals(true, result);

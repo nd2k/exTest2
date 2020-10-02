@@ -17,7 +17,7 @@ public class Address {
         this.countryCode = countryCode;
     }
 
-    public boolean checkZipCodeIsNumeric(String zipCode) {
+    public boolean checkZipCodeIsNumeric() {
         try {
             System.out.println(zipCode);
             Integer i = Integer.parseInt(zipCode);
