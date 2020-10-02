@@ -11,10 +11,14 @@ import static org.junit.Assert.assertThat;
 
 public class TestPerson {
 
-    @Before
-    public
+    private Person person;
 
-    private Person person = new Person(1, "John", "Doe", LocalDate.of(1996, 5, 05));
+    @Before
+    public void setUp() {
+        person = new Person(1, "John", "Doe", LocalDate.of(1996, 5, 05));
+        System.out.println("Person object has been created - " + person);
+    }
+
 
     @Test
     public void calculateAge_personShouldBe24() {
