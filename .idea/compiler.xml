@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExA3" />
         <module name="ExA2" />
+        <module name="ExA5" />
+        <module name="ExA4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="ExA2" target="1.8" />
       <module name="ExA3" target="1.8" />
+      <module name="ExA4" target="1.8" />
+      <module name="ExA5" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
