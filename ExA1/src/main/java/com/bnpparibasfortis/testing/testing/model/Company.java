@@ -1,6 +1,4 @@
-package com.bnpparibasfortis.com.model;
-
-import com.bnpparibasfortis.com.model.Address;
+package com.bnpparibasfortis.testing.testing.model;
 
 public class Company {
 

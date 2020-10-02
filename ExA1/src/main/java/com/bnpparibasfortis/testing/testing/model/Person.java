@@ -1,6 +1,4 @@
-package com.bnpparibasfortis.com.model;
-
-import com.bnpparibasfortis.com.model.Company;
+package com.bnpparibasfortis.testing.testing.model;
 
 import java.time.LocalDate;
 import java.time.Period;
