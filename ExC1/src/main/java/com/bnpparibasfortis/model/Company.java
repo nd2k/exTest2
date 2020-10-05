@@ -27,4 +27,22 @@ public class Company {
     public void setAddress(Address address) {
         this.address = address;
     }
+
+    public double calculateTaxToPay(String countryCode) {
+        // initialize return variable
+        double taxRate = 0.0;
+        // check different cases
+        switch(this.address.getCountryCode()) {
+            case "BE":
+                taxRate = 51.0;
+            break;
+            case "NL":
+                taxRate = 47.0;
+            break;
+            default:
+                taxRate = 35.0;
+        }
+        // return result
+        return taxRate;
+    }
 }
