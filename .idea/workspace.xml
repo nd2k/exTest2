@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b94886c-0e36-4ca3-8c45-55492690de14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/exception/SalaryTooLowException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/ExC2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/service/AbisPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestPaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestPerson.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -84,9 +69,9 @@
       <recent name="com.bnpparibasfortis" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestPerson.salaryTooLowException (1)">
-    <configuration name="TestCompany.taxForBelgianCompanyShouldBe51" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExC1" />
+  <component name="RunManager" selected="JUnit.TestPaymentService.testPaySalaryThrowsException">
+    <configuration name="TestPaymentService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExC2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bnpparibasfortis.*" />
@@ -94,15 +79,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestCompany" />
-      <option name="METHOD_NAME" value="taxForBelgianCompanyShouldBe51" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPaymentService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPaymentService.testPaySalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExC2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPaymentService" />
+      <option name="METHOD_NAME" value="testPaySalary" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson.calculateNetSalaryOfBelgianPersonUsingMockCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExC1" />
+    <configuration name="TestPaymentService.testPaySalaryThrowsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExC2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bnpparibasfortis.*" />
@@ -110,8 +110,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="calculateNetSalaryOfBelgianPersonUsingMockCompany" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPaymentService" />
+      <option name="METHOD_NAME" value="testPaySalaryThrowsException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,29 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson.toStringSentenceStartsWithPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExC1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="toStringSentenceStartsWithPerson" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPaymentService.testPaySalaryThrowsException" />
+        <item itemvalue="JUnit.TestPaymentService.testPaySalary" />
+        <item itemvalue="JUnit.TestPaymentService" />
         <item itemvalue="JUnit.TestPerson.salaryTooLowException (1)" />
         <item itemvalue="JUnit.TestPerson.salaryTooLowException" />
-        <item itemvalue="JUnit.TestPerson.calculateNetSalaryOfBelgianPersonUsingMockCompany" />
-        <item itemvalue="JUnit.TestPerson.toStringSentenceStartsWithPerson" />
-        <item itemvalue="JUnit.TestCompany.taxForBelgianCompanyShouldBe51" />
       </list>
     </recent_temporary>
   </component>
@@ -198,10 +182,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601900416705" />
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601901176716">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601905393176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601901176716" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601905393176" />
     <state x="498" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601633132118">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -214,22 +198,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601645099641" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601904994429">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601906731977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601904994429">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601906731977" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601906731977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601904994429">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601906731977" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601906731977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601904994429">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601906731977" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601906731977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601906731977" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601903708579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -254,6 +238,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601638040688" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601906957087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1601906957087" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1601642865018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
