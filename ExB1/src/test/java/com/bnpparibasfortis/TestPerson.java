@@ -7,8 +7,9 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 
-import static org.hamcrest.CoreMatchers.is;
+
 import static org.hamcrest.CoreMatchers.startsWith;
+import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -43,7 +44,7 @@ public class TestPerson {
 
 
         // assert
-        assertEquals(result, is(expected));
+        assertEquals(result, expected);
     }
 
     @Test
@@ -56,16 +57,16 @@ public class TestPerson {
         String personToString = person.toString();
 
         //assert
-        assertEquals(personToString, startsWith(expected));
+        assertThat(personToString, startsWith(expected));
     }
 
     @Test
     public void personShouldBeAnAdult() throws PersonShouldBeAdultException {
 
-        Integer ageHigherOrEqualTo18 = person2.calculateAge();
+
         //assert
         assertThrows(PersonShouldBeAdultException.class, () -> {
-            System.out.println("Test has thrown PersonShouldBeAdultException has expected");
+            Integer ageHigherOrEqualTo18 = person2.calculateAge();;
         });
 
     }
