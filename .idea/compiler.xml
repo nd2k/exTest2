@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExC1" />
         <module name="ExB2" />
+        <module name="ExC3" />
         <module name="ExB1" />
         <module name="ExC2" />
         <module name="ExA3" />
@@ -34,6 +35,7 @@
       <module name="ExB4" target="1.8" />
       <module name="ExC1" target="1.8" />
       <module name="ExC2" target="1.8" />
+      <module name="ExC3" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
