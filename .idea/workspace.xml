@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b94886c-0e36-4ca3-8c45-55492690de14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/ExB2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB2/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/ExB1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExB1/ExB1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/addressesFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExB1/addressesFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExB1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/src/test/java/com/bnpparibasfortis/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExB1/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExB1/target/test-classes/com/bnpparibasfortis/TestPerson.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11.0.6" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExB2/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,6 +75,9 @@
       <recent name="com.bnpparibasfortis.testing.testing.model" />
       <recent name="com.bnpparibasfortis.exA2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lab\BNP\extest2\ExB2\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bnpparibasfortis" />
     </key>
@@ -72,7 +85,7 @@
       <recent name="com.bnpparibasfortis" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSuite (1)">
+  <component name="RunManager" selected="JUnit.TestPerson$calculationAgeTests">
     <configuration name="TestAddress (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExB3" />
       <extension name="coverage">
@@ -103,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA8" />
+    <configuration name="TestPerson$calculationAgeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExB2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bnpparibasfortis.*" />
@@ -112,7 +125,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestAddress" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson$calculationAgeTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPerson$calculationAgeTests" />
         <item itemvalue="JUnit.TestSuite (1)" />
         <item itemvalue="JUnit.TestAddress (2)" />
         <item itemvalue="JUnit.TestSuite" />
         <item itemvalue="JUnit.TestAddress (1)" />
-        <item itemvalue="JUnit.TestAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -173,10 +186,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1601645802430">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1601891501382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601645802430" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601891501382" />
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601648059299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -193,22 +206,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601645099641" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601890946737">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601892084409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601890946737" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601890946737">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601892084409" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601892084409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601890946737" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601890946737">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601892084409" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601892084409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601890946737" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601890946737">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601892084409" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601892084409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601890946737" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601892084409" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601889769572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -225,10 +238,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601889769572" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1601889067490">
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1601891322783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1601889067490" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1601891322783" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601638040688">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -237,9 +250,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1601642865018" />
-    <state x="392" y="73" key="new project wizard" timestamp="1601884969479">
+    <state x="392" y="73" key="new project wizard" timestamp="1601891389229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601884969479" />
+    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601891389229" />
   </component>
 </project>
