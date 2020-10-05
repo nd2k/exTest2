@@ -1,0 +1,4 @@
+com\bnpparibasfortis\model\Company.class
+com\bnpparibasfortis\exception\PersonShouldBeAdultException.class
+com\bnpparibasfortis\model\Address.class
+com\bnpparibasfortis\model\Person.class
