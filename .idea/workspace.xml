@@ -5,78 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b94886c-0e36-4ca3-8c45-55492690de14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/exception/SalaryTooLowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/ExC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExC2/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA2/target/classes/com/bnpparibasfortis/exA2/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA2/target/classes/com/bnpparibasfortis/exA2/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA2/target/classes/com/bnpparibasfortis/testing/testing/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA2/target/test-classes/com/bnpparibasfortis/exA2/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA3/target/classes/com/bnpparibasfortis/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA3/target/classes/com/bnpparibasfortis/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA3/target/classes/com/bnpparibasfortis/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA3/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA3/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA5/target/classes/com/bnpparibasfortis/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA5/target/classes/com/bnpparibasfortis/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA5/target/classes/com/bnpparibasfortis/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA5/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA5/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA6/target/classes/com/bnpparibasfortis/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA6/target/classes/com/bnpparibasfortis/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA6/target/classes/com/bnpparibasfortis/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA6/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA6/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/exception/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/classes/com/bnpparibasfortis/exception/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/classes/com/bnpparibasfortis/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA8/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/classes/com/bnpparibasfortis/exception/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/classes/com/bnpparibasfortis/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB1/target/test-classes/com/bnpparibasfortis/TestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/classes/com/bnpparibasfortis/exception/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/classes/com/bnpparibasfortis/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/test-classes/com/bnpparibasfortis/TestPerson$calculationAgeTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB2/target/test-classes/com/bnpparibasfortis/TestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/classes/com/bnpparibasfortis/exception/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/classes/com/bnpparibasfortis/model/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB3/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExB4/addressesFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExB4/addressesFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/ExC1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/ExC1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExC1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestCompany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Company.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/classes/com/bnpparibasfortis/model/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestAddress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestCompany.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestPerson$calculationAgeTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExC1/target/test-classes/com/bnpparibasfortis/TestSuite.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,22 +84,7 @@
       <recent name="com.bnpparibasfortis" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestPerson.calculateNetSalaryOfBelgianPersonUsingMockCompany">
-    <configuration name="TestCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExC1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestCompany" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestPerson.salaryTooLowException (1)">
     <configuration name="TestCompany.taxForBelgianCompanyShouldBe51" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExC1" />
       <extension name="coverage">
@@ -184,6 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPerson.salaryTooLowException (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExC2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
+      <option name="METHOD_NAME" value="salaryTooLowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerson.salaryTooLowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExC1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
+      <option name="METHOD_NAME" value="salaryTooLowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestPerson.toStringSentenceStartsWithPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExC1" />
       <extension name="coverage">
@@ -200,28 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExB4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestSuite" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPerson.salaryTooLowException (1)" />
+        <item itemvalue="JUnit.TestPerson.salaryTooLowException" />
         <item itemvalue="JUnit.TestPerson.calculateNetSalaryOfBelgianPersonUsingMockCompany" />
         <item itemvalue="JUnit.TestPerson.toStringSentenceStartsWithPerson" />
         <item itemvalue="JUnit.TestCompany.taxForBelgianCompanyShouldBe51" />
-        <item itemvalue="JUnit.TestCompany" />
-        <item itemvalue="JUnit.TestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -264,22 +214,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601645099641" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601904300756">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601904994429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601904300756" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601904300756">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601904994429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601904300756" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601904300756">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601904994429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601904300756" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601904300756">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601904994429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601904300756" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601904994429" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601903708579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -308,10 +258,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1601642865018" />
-    <state x="392" y="73" key="new project wizard" timestamp="1601893525086">
+    <state x="206" y="0" width="1067" height="544" key="dock-window-1" timestamp="1601904699712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601893525086" />
+    <state x="206" y="0" width="1067" height="544" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601904699712" />
+    <state x="392" y="73" key="new project wizard" timestamp="1601904569203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601904569203" />
     <state x="562" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1601901178011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

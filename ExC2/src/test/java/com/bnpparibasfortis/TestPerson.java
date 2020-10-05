@@ -1,6 +1,7 @@
 package com.bnpparibasfortis;
 
 import com.bnpparibasfortis.exception.PersonShouldBeAdultException;
+import com.bnpparibasfortis.exception.SalaryTooLowException;
 import com.bnpparibasfortis.model.Company;
 import com.bnpparibasfortis.model.Person;
 import org.junit.Before;
@@ -30,7 +31,7 @@ public class TestPerson {
     @Before
     public void setUp() {
         person = new Person(1, "John", "Doe", LocalDate.of(1996, 5, 05), 5000, mockCompany);
-        person2 = new Person(1, "Jane", "Doe", LocalDate.of(2010, 5, 05), 1500, mockCompany);
+        person2 = new Person(1, "Jane", "Doe", LocalDate.of(2010, 5, 05), 1000, mockCompany);
     }
 
 
@@ -74,7 +75,7 @@ public class TestPerson {
     }
 
     @Test
-    public void calculateNetSalaryOfBelgianPersonUsingMockCompany() {
+    public void calculateNetSalaryOfBelgianPersonUsingMockCompany() throws SalaryTooLowException {
         //arrange
         double expected = 0.49 * 5000;
 
@@ -87,7 +88,10 @@ public class TestPerson {
         verify(mockCompany).calculateTaxToPay();
     }
 
-
-
+    @Test(expected = SalaryTooLowException.class)
+    public void salaryTooLowException() throws SalaryTooLowException {
+        when(mockCompany.calculateTaxToPay()).thenReturn(51.0);
+        double netSalary = person2.calculateNetSalary();
+    }
 
 }
