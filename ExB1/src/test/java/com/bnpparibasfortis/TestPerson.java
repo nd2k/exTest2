@@ -2,22 +2,23 @@ package com.bnpparibasfortis;
 
 import com.bnpparibasfortis.exception.PersonShouldBeAdultException;
 import com.bnpparibasfortis.model.Person;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.startsWith;
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
 
 public class TestPerson {
 
     private Person person;
     private Person person2;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         person = new Person(1, "John", "Doe", LocalDate.of(1996, 5, 05));
         System.out.println("Person object has been created - " + person);
@@ -42,7 +43,7 @@ public class TestPerson {
 
 
         // assert
-        assertThat(result, is(expected));
+        assertEquals(result, is(expected));
     }
 
     @Test
@@ -55,13 +56,17 @@ public class TestPerson {
         String personToString = person.toString();
 
         //assert
-        assertThat(personToString, startsWith(expected));
+        assertEquals(personToString, startsWith(expected));
     }
 
-    @Test(expected = PersonShouldBeAdultException.class)
+    @Test
     public void personShouldBeAnAdult() throws PersonShouldBeAdultException {
 
         Integer ageHigherOrEqualTo18 = person2.calculateAge();
+        //assert
+        assertThrows(PersonShouldBeAdultException.class, () -> {
+            System.out.println("Test has thrown PersonShouldBeAdultException has expected");
+        });
 
     }
 

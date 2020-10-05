@@ -1,10 +1,12 @@
 package com.bnpparibasfortis;
 
+import org.junit.platform.runner.JUnitPlatform;
+import org.junit.platform.suite.api.SelectClasses;
 import org.junit.runner.RunWith;
-import org.junit.runners.Suite;
 
-@RunWith(Suite.class)
-@Suite.SuiteClasses({TestPerson.class, TestAddress.class})
+
+@RunWith(JUnitPlatform.class)
+@SelectClasses({ TestAddress.class, TestPerson.class })
 public class TestSuite {
 
     public void testSuite() {
