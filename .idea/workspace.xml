@@ -5,30 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b94886c-0e36-4ca3-8c45-55492690de14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExA8/ExA8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExA8/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/ExB4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExB4/src/test/java/com/bnpparibasfortis/TestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/model/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/PersonShouldBeAdultException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/exception/PersonShouldBeAdultException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/test/java/com/bnpparibasfortis/TestAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/src/test/java/com/bnpparibasfortis/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/test/java/com/bnpparibasfortis/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/classes/com/bnpparibasfortis/PersonShouldBeAdultException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestAddress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/target/test-classes/com/bnpparibasfortis/TestPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/ExA8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/ExA8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/addressFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/addressFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/addressesFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/addressesFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/addressesFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/src/main/java/com/bnpparibasfortis/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExA8/src/test/java/com/bnpparibasfortis/TestAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExA8/src/test/java/com/bnpparibasfortis/TestAddress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,9 @@
     <property name="jdk.selected.JAVA_MODULE" value="11.0.6" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ExA7/src/main/java/com/bnpparibasfortis" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -82,93 +84,91 @@
       <recent name="com.bnpparibasfortis" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestPerson (1)">
-    <configuration name="TestPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA7" />
+  <component name="RunManager" selected="JUnit.TestSuite">
+    <configuration name="TestAddress (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExB3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.exception.*" />
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestAddress" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson.calculateAge_personShouldBe24" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA6" />
+    <configuration name="TestAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExA8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.exception.*" />
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="calculateAge_personShouldBe24" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestAddress" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddress.addressInAFileExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExA8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestAddress" />
+      <option name="METHOD_NAME" value="addressInAFileExists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson.calculateAge_personShouldBe24" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA7" />
+    <configuration name="TestAddress.addressInAFileShouldThrowAnException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExA8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.exception.*" />
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="calculateAge_personShouldBe24" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestAddress" />
+      <option name="METHOD_NAME" value="addressInAFileShouldThrowAnException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson.personShouldBeAnAdult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA7" />
+    <configuration name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExB4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.exception.*" />
+          <option name="PATTERN" value="com.bnpparibasfortis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="personShouldBeAnAdult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPerson.toStringSentenceStartsWithPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ExA7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bnpparibasfortis.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bnpparibasfortis" />
-      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestPerson" />
-      <option name="METHOD_NAME" value="toStringSentenceStartsWithPerson" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibasfortis.TestSuite" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestPerson (1)" />
-        <item itemvalue="JUnit.TestPerson.personShouldBeAnAdult" />
-        <item itemvalue="JUnit.TestPerson.calculateAge_personShouldBe24 (2)" />
-        <item itemvalue="JUnit.TestPerson.toStringSentenceStartsWithPerson (1)" />
-        <item itemvalue="JUnit.TestPerson.calculateAge_personShouldBe24" />
+        <item itemvalue="JUnit.TestSuite" />
+        <item itemvalue="JUnit.TestAddress (1)" />
+        <item itemvalue="JUnit.TestAddress" />
+        <item itemvalue="JUnit.TestAddress.addressInAFileShouldThrowAnException" />
+        <item itemvalue="JUnit.TestAddress.addressInAFileExists" />
       </list>
     </recent_temporary>
   </component>
@@ -187,10 +187,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601642879157">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1601645802430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601642879157" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601645802430" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601648059299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601648059299" />
     <state x="498" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601633132118">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -203,38 +207,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601645099641" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601645057590">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601883883700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601645057590" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601645057589">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601883883700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601883883700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601645057589" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601645057589">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601883883700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601883883700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601645057589" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601645057589">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601883883700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601883883700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601645057589" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601642979214">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601883883700" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601671800809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601642979214" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601642979214">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601671800809" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601671800808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601642979214" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601642979214">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601671800808" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601671800808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601642979214" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601642979214">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601671800808" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601671800809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601642979214" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601671800809" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1601641842440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,9 +251,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1601642865018" />
-    <state x="392" y="73" key="new project wizard" timestamp="1601644444621">
+    <state x="392" y="73" key="new project wizard" timestamp="1601884051200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601644444621" />
+    <state x="392" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601884051200" />
   </component>
 </project>

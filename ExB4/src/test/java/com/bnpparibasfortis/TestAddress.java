@@ -1,6 +1,7 @@
 package com.bnpparibasfortis;
 
 import com.bnpparibasfortis.model.Address;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.io.File;
@@ -61,6 +62,12 @@ public class TestAddress {
         }
         file.setReadOnly();
         addressUnderTest.writeAddressInAFile();
+    }
+
+    @Ignore
+    @Test
+    public void noIdeaYetWhatWeAreGoingToTest() {
+        System.out.println("The test has been executed");
     }
 
 }
