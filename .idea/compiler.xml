@@ -32,6 +32,7 @@
       <module name="ExB3" target="1.8" />
       <module name="ExB4" target="1.8" />
       <module name="ExC1" target="1.8" />
+      <module name="ExC2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

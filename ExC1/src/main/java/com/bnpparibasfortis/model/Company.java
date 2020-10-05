@@ -28,7 +28,7 @@ public class Company {
         this.address = address;
     }
 
-    public double calculateTaxToPay(String countryCode) {
+    public double calculateTaxToPay() {
         // initialize return variable
         double taxRate = 0.0;
         // check different cases

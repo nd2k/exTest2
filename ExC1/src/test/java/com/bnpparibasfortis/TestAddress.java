@@ -1,16 +1,18 @@
 package com.bnpparibasfortis;
 
 import com.bnpparibasfortis.model.Address;
-import org.junit.jupiter.api.Disabled;
-import org.junit.jupiter.api.Test;
+import org.junit.Ignore;
+import org.junit.Test;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.FileSystem;
+import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
 
 
 public class TestAddress {
@@ -51,6 +53,7 @@ public class TestAddress {
         assertEquals(1, linesAdded);
     }
 
+    @Test(expected = IOException.class)
     public void addressInAFileShouldThrowAnException() throws IOException {
         //arrange
         File file = path.toFile();
@@ -59,14 +62,9 @@ public class TestAddress {
         }
         file.setReadOnly();
         addressUnderTest.writeAddressInAFile();
-
-        //assert
-        assertThrows(IOException.class, () -> {
-            System.out.println("Test has thrown exception has expected");
-        });
     }
 
-    @Disabled
+    @Ignore
     @Test
     public void noIdeaYetWhatWeAreGoingToTest() {
         System.out.println("The test has been executed");

@@ -1,7 +1,6 @@
 package com.bnpparibasfortis.model;
 
 import com.bnpparibasfortis.exception.PersonShouldBeAdultException;
-import com.bnpparibasfortis.model.Company;
 
 import java.time.LocalDate;
 import java.time.Period;
@@ -13,16 +12,18 @@ public class Person {
     private String lastName;
     private LocalDate birthDay;
     private Company company;
+    private double grossSalary;
 
-    public Person(int personNumber, String firstName, String lastName, LocalDate birthDay) {
+    public Person(int personNumber, String firstName, String lastName, LocalDate birthDay, double grossSalary) {
         this.personNumber = personNumber;
         this.firstName = firstName;
         this.lastName = lastName;
         this.birthDay = birthDay;
+        this.grossSalary = grossSalary;
     }
 
-    public Person(int personNumber, String firstName, String lastName, LocalDate birthDay, Company company) {
-        this(personNumber,firstName,lastName,birthDay);
+    public Person(int personNumber, String firstName, String lastName, LocalDate birthDay, double grossSalary, Company company) {
+        this(personNumber,firstName,lastName,birthDay, grossSalary);
         this.company = company;
     }
 
@@ -66,6 +67,10 @@ public class Person {
         this.company = company;
     }
 
+    public double getGrossSalary() { return grossSalary; }
+
+    public void setGrossSalary() { this.grossSalary = grossSalary; }
+
 
     @Override
     public String toString() {
@@ -90,5 +95,11 @@ public class Person {
         } else {
             throw new PersonShouldBeAdultException("This person is not an adult");
         }
+    }
+
+    public double calculateNetSalary() {
+        double netSalary = 0.0;
+        netSalary = grossSalary*(1.0-company.calculateTaxToPay()/100.0);
+        return netSalary;
     }
 }
